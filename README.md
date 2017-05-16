@@ -8,4 +8,7 @@ https://cmusphinx.github.io/
 HTK - toolbox para HMM
 http://htk.eng.cam.ac.uk/
 
+Tensorflow - api de machine learning da google, feita em python
+https://www.tensorflow.org/
+
 
